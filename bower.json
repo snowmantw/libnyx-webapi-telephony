@@ -1,0 +1,21 @@
+{
+  "name": "libnyx-webapi-telephony",
+  "version": "0.0.0",
+  "homepage": "https://github.com/snowmantw/nyx-playground",
+  "authors": [
+    "Greg Weng <snowmantw@gmail.com>"
+  ],
+  "description": "Nyx library to provide a wrapped WebAPI, so that we can use depedency manager instead of arbitrary feature detection.",
+  "main": "NyxWebAPI/Telephony.js",
+  "keywords": [
+    "webapi"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
